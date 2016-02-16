@@ -1,3 +1,3 @@
  
-docker build -t tomcatwebapp dockerfilehome 
+docker -H tcp://10.0.0.5:2376 build -t tomcatwebapp .
   
