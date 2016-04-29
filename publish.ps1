@@ -1,0 +1,1 @@
+curl -Method POST -Uri $args[0]
