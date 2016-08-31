@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World - Tomcat Webapp CI/CD</h2>
+<h2>Hello World (Infosys) - Tomcat Webapp CI/CD</h2>
 <h2>
 <%if(System.getenv("DEPLOYMENT_ENV") != null){%> 
 <%   out.print(System.getenv("DEPLOYMENT_ENV")); %>
